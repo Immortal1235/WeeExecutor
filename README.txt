@@ -1,0 +1,1 @@
+To get started, right-click the ZIP folder you downloaded and select “Extract All…” to unpack the files. Once the extraction is complete, open the new folder that appears. Inside, you'll find a file named setup.bat — just double-click it to run the setup. After that, the executor will be ready to use. Enjoy!
